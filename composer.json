@@ -6,5 +6,7 @@
             "email": "lococarcajada@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.17"
+    }
 }
